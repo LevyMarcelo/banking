@@ -1,0 +1,19 @@
+{
+  "name": "banking",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "webdriver:update": "webdriver-manager update"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.2",
+    "protractor-helper": "^3.7.2",
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}
